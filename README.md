@@ -1,6 +1,4 @@
-# AgentWebBotPlaywright
-
-# Playwright Remote Workflow (Windows + Docker)
+# AgentWebBotPlaywright (Windows + Docker)
 
 This guide explains how this repo connects a Playwright container to your already-open desktop
 browser via a WebSocket/DevTools endpoint, runs queued scripts in a watch folder, navigates to
